@@ -32,5 +32,5 @@ make build-linux
 ```
 It will first load the history messages. (bug: sometimes does not show them in order).
 
-To add audio notifications send command ````*s```.
+To add audio notifications send command ```s```.
 
