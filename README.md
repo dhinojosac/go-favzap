@@ -30,3 +30,7 @@ make build-linux
 ```sh
 ./go-favzap <whatsapp-contact-number>
 ```
+It will first load the history messages. (bug: sometimes does not show them in order).
+
+To add audio notifications send command ````*s```.
+
